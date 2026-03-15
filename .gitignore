@@ -1,0 +1,31 @@
+# AI Script Pro - Git Ignore
+
+# 설정 및 보안 (Hugging Face 토큰 포함됨)
+config.json
+
+# 파이썬 임시 파일
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+
+# 빌드 및 배포 관련
+build/
+dist/
+*.spec
+
+# 미디어 및 결과물
+*.wav
+*_audio.wav
+*_script.json
+*.mp4
+*.mov
+*.mkv
+*.avi
+
+# 로그
+*.log

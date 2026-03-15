@@ -1,0 +1,10 @@
+customtkinter
+tkinterdnd2
+faster-whisper
+pyannote.audio
+torch
+torchaudio
+huggingface_hub
+numpy
+matplotlib
+soundfile
